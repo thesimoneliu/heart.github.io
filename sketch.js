@@ -28,7 +28,7 @@ function setup() {
     colorMode(HSB);
     //rectMode(CENTER);
     //angleMode(DEGREES);
-    frameRate(8);
+    frameRate(15);
 
     stroke(col3);
     heart(8, 4); //scal=10: how big is the heart?
